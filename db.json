@@ -1,3 +1,16 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "Hello 1",
+      "day": "2021-06-19",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Buy New Items ",
+      "day": "2021-06-18",
+      "reminder": false,
+      "id": 2
+    }
+  ]
 }
